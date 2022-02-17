@@ -1,6 +1,0 @@
-crawler/WebCrawlerWorker.class
-Main.class
-crawler/IWebCrawler.class
-processor/ISiteProcessor.class
-crawler/WebCrawler.class
-processor/BBCNewsProcessor.class
